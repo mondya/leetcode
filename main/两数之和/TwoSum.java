@@ -1,3 +1,5 @@
+package 两数之和;
+
 import java.util.Arrays;
 import java.util.HashMap;
 
