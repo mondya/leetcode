@@ -23,6 +23,10 @@ public class TwoSum {
     }
     
     public static int[] getIndex(int[] nums, int target){
+        /**
+         * 思路：把target - nums[i] 的值作为key，i作为value存入map中
+         * 当 map 
+         */
         int[] index = new int[2];
         HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
 
